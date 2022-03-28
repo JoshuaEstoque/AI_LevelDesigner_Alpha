@@ -1,0 +1,23 @@
+{
+    "TestBehavior3": {
+        "checkpoints": [
+            {
+                "steps": 229979,
+                "file_path": "results\\FINALTrainerTest_4\\TestBehavior3\\TestBehavior3-229979.nn",
+                "reward": -0.7444996451383961,
+                "creation_time": 1638040967.413794
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 229979,
+            "file_path": "results\\FINALTrainerTest_4\\TestBehavior3.nn",
+            "reward": -0.7444996451383961,
+            "creation_time": 1638040967.413794
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

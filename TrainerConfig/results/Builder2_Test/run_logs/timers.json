@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1639909235",
+        "python_version": "3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Joshua\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\mlagents-learn training_config.yaml --run-id=Builder2_Test --time-scale=10 --resume",
+        "mlagents_version": "0.21.1",
+        "mlagents_envs_version": "0.21.1",
+        "communication_protocol_version": "1.2.0",
+        "tensorflow_version": "2.3.1",
+        "numpy_version": "1.18.5",
+        "end_time_seconds": "1639909301"
+    },
+    "total": 66.65558910000001,
+    "count": 1,
+    "self": 1.0620038000000278,
+    "children": {
+        "run_training.setup": {
+            "total": 1.0158698999999984,
+            "count": 1,
+            "self": 1.0158698999999984
+        },
+        "TrainerController.start_learning": {
+            "total": 64.57771539999999,
+            "count": 1,
+            "self": 0.04751550000000293,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 64.52956219999999,
+                    "count": 1,
+                    "self": 64.52956219999999
+                },
+                "TrainerController._save_models": {
+                    "total": 0.000637699999998631,
+                    "count": 1,
+                    "self": 0.000637699999998631
+                }
+            }
+        }
+    }
+}

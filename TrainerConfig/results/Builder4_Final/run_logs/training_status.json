@@ -1,0 +1,77 @@
+{
+    "Builder": {
+        "checkpoints": [
+            {
+                "steps": 1499969,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-1499969.nn",
+                "reward": -1.0684742853045464,
+                "creation_time": 1640670160.8137093
+            },
+            {
+                "steps": 1999145,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-1999145.nn",
+                "reward": 1.573786810040474,
+                "creation_time": 1640688606.155362
+            },
+            {
+                "steps": 2499067,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-2499067.nn",
+                "reward": -7.122517260130156,
+                "creation_time": 1640697267.1458669
+            },
+            {
+                "steps": 2780219,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-2780219.nn",
+                "reward": null,
+                "creation_time": 1640701648.7805636
+            },
+            {
+                "steps": 2999375,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-2999375.nn",
+                "reward": -17.355395894497633,
+                "creation_time": 1640709193.2623715
+            },
+            {
+                "steps": 3499036,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-3499036.nn",
+                "reward": null,
+                "creation_time": 1640721514.5893786
+            },
+            {
+                "steps": 3865036,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-3865036.nn",
+                "reward": null,
+                "creation_time": 1640732637.2280412
+            },
+            {
+                "steps": 3999512,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-3999512.nn",
+                "reward": 1.3176335549602907,
+                "creation_time": 1640891801.2606032
+            },
+            {
+                "steps": 4499363,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-4499363.nn",
+                "reward": -3.980165251841148,
+                "creation_time": 1640907324.858378
+            },
+            {
+                "steps": 4732168,
+                "file_path": "results\\Builder4_Final\\Builder\\Builder-4732168.nn",
+                "reward": null,
+                "creation_time": 1640914339.0170686
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4732168,
+            "file_path": "results\\Builder4_Final\\Builder.nn",
+            "reward": null,
+            "creation_time": 1640914339.0170686
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

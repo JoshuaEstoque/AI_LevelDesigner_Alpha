@@ -1,0 +1,29 @@
+{
+    "Builder": {
+        "checkpoints": [
+            {
+                "steps": 324556,
+                "file_path": "results\\Builder2_Test\\Builder\\Builder-324556.nn",
+                "reward": -0.9913000003434718,
+                "creation_time": 1639485781.8663416
+            },
+            {
+                "steps": 400380,
+                "file_path": "results\\Builder2_Test\\Builder\\Builder-400380.nn",
+                "reward": 0.504400049616379,
+                "creation_time": 1639895655.5709858
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 400380,
+            "file_path": "results\\Builder2_Test\\Builder.nn",
+            "reward": 0.504400049616379,
+            "creation_time": 1639895655.5709858
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

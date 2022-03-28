@@ -1,0 +1,65 @@
+{
+    "TestBehavior3": {
+        "checkpoints": [
+            {
+                "steps": 499179,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-499179.nn",
+                "reward": -0.2574103559766497,
+                "creation_time": 1634382907.6142075
+            },
+            {
+                "steps": 999518,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-999518.nn",
+                "reward": -1.3268383026123047,
+                "creation_time": 1634390921.347745
+            },
+            {
+                "steps": 1499509,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-1499509.nn",
+                "reward": -9.998611450195312,
+                "creation_time": 1634401710.645255
+            },
+            {
+                "steps": 1999161,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-1999161.nn",
+                "reward": -9.998558044433594,
+                "creation_time": 1634414721.5705311
+            },
+            {
+                "steps": 2499356,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-2499356.nn",
+                "reward": -9.998580574989319,
+                "creation_time": 1634429781.6767223
+            },
+            {
+                "steps": 2999302,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-2999302.nn",
+                "reward": -9.995153563363212,
+                "creation_time": 1634439490.825557
+            },
+            {
+                "steps": 3499946,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-3499946.nn",
+                "reward": -9.998924414316813,
+                "creation_time": 1634448996.8658133
+            },
+            {
+                "steps": 3607749,
+                "file_path": "results\\visTest4\\TestBehavior3\\TestBehavior3-3607749.nn",
+                "reward": -9.999647855758667,
+                "creation_time": 1634450953.989433
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3607749,
+            "file_path": "results\\visTest4\\TestBehavior3.nn",
+            "reward": -9.999647855758667,
+            "creation_time": 1634450953.989433
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

@@ -1,0 +1,5 @@
+model_checkpoint_path: "TestBehavior3-1564237.ckpt"
+all_model_checkpoint_paths: "TestBehavior3-499993.ckpt"
+all_model_checkpoint_paths: "TestBehavior3-999992.ckpt"
+all_model_checkpoint_paths: "TestBehavior3-1499902.ckpt"
+all_model_checkpoint_paths: "TestBehavior3-1564237.ckpt"

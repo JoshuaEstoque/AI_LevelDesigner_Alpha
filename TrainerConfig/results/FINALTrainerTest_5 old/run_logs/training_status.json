@@ -1,0 +1,65 @@
+{
+    "TestBehavior3": {
+        "checkpoints": [
+            {
+                "steps": 499855,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-499855.nn",
+                "reward": -0.3067827435988414,
+                "creation_time": 1638088662.231637
+            },
+            {
+                "steps": 741716,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-741716.nn",
+                "reward": -0.3765768592725536,
+                "creation_time": 1638090870.049073
+            },
+            {
+                "steps": 750560,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-750560.nn",
+                "reward": 0.8495040006992471,
+                "creation_time": 1638091088.6389706
+            },
+            {
+                "steps": 999996,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-999996.nn",
+                "reward": 0.029463670043665194,
+                "creation_time": 1638093493.1675427
+            },
+            {
+                "steps": 1231877,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-1231877.nn",
+                "reward": null,
+                "creation_time": 1638095746.822116
+            },
+            {
+                "steps": 1483911,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-1483911.nn",
+                "reward": 0.6142113012271923,
+                "creation_time": 1638097934.300257
+            },
+            {
+                "steps": 1484778,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-1484778.nn",
+                "reward": 0.9992423957144773,
+                "creation_time": 1638098017.0153859
+            },
+            {
+                "steps": 1490028,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-1490028.nn",
+                "reward": 0.8851974114521178,
+                "creation_time": 1638098276.353873
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1490028,
+            "file_path": "results\\FINALTrainerTest_5\\TestBehavior3.nn",
+            "reward": 0.8851974114521178,
+            "creation_time": 1638098276.353873
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

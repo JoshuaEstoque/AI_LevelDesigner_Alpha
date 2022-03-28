@@ -1,0 +1,4 @@
+model_checkpoint_path: "Builder-4732168.ckpt"
+all_model_checkpoint_paths: "Builder-3999512.ckpt"
+all_model_checkpoint_paths: "Builder-4499363.ckpt"
+all_model_checkpoint_paths: "Builder-4732168.ckpt"

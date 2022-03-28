@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1635585921",
+        "python_version": "3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Joshua\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\mlagents-learn training_config.yaml --run-id=visTest5 --force",
+        "mlagents_version": "0.21.1",
+        "mlagents_envs_version": "0.21.1",
+        "communication_protocol_version": "1.2.0",
+        "tensorflow_version": "2.3.1",
+        "numpy_version": "1.18.5",
+        "end_time_seconds": "1635585987"
+    },
+    "total": 66.11742369999999,
+    "count": 1,
+    "self": 0.4593976000000026,
+    "children": {
+        "run_training.setup": {
+            "total": 0.21351219999999937,
+            "count": 1,
+            "self": 0.21351219999999937
+        },
+        "TrainerController.start_learning": {
+            "total": 65.44451389999999,
+            "count": 1,
+            "self": 0.007604799999995748,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 65.4363236,
+                    "count": 1,
+                    "self": 65.4363236
+                },
+                "TrainerController._save_models": {
+                    "total": 0.0005854999999996835,
+                    "count": 1,
+                    "self": 0.0005854999999996835
+                }
+            }
+        }
+    }
+}

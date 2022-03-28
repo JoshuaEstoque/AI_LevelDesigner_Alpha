@@ -1,0 +1,77 @@
+{
+    "TestBehavior3": {
+        "checkpoints": [
+            {
+                "steps": 3298321,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3298321.nn",
+                "reward": -0.36927397981107135,
+                "creation_time": 1638115136.381511
+            },
+            {
+                "steps": 3499372,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3499372.nn",
+                "reward": null,
+                "creation_time": 1638117850.849408
+            },
+            {
+                "steps": 3746895,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3746895.nn",
+                "reward": -0.8700016350685795,
+                "creation_time": 1638121123.6469378
+            },
+            {
+                "steps": 3747024,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3747024.nn",
+                "reward": 0.9993208917704496,
+                "creation_time": 1638150595.1192753
+            },
+            {
+                "steps": 3748045,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3748045.nn",
+                "reward": 0.9675306596998441,
+                "creation_time": 1638150675.4601877
+            },
+            {
+                "steps": 3917873,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3917873.nn",
+                "reward": -0.8722266621059842,
+                "creation_time": 1638154776.813767
+            },
+            {
+                "steps": 3983669,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3983669.nn",
+                "reward": -1.12273407750763,
+                "creation_time": 1638158165.7539594
+            },
+            {
+                "steps": 3999987,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-3999987.nn",
+                "reward": -0.7184878328701595,
+                "creation_time": 1638179239.3189437
+            },
+            {
+                "steps": 4499479,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-4499479.nn",
+                "reward": null,
+                "creation_time": 1638189259.878996
+            },
+            {
+                "steps": 4520479,
+                "file_path": "results\\FINALTrainerTest_5\\TestBehavior3\\TestBehavior3-4520479.nn",
+                "reward": null,
+                "creation_time": 1638189677.2023313
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4520479,
+            "file_path": "results\\FINALTrainerTest_5\\TestBehavior3.nn",
+            "reward": null,
+            "creation_time": 1638189677.2023313
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

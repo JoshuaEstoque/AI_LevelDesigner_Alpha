@@ -1,0 +1,65 @@
+{
+    "TestBehavior3": {
+        "checkpoints": [
+            {
+                "steps": 499826,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-499826.nn",
+                "reward": null,
+                "creation_time": 1632764957.543698
+            },
+            {
+                "steps": 999826,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-999826.nn",
+                "reward": null,
+                "creation_time": 1632768765.9705586
+            },
+            {
+                "steps": 1499826,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-1499826.nn",
+                "reward": null,
+                "creation_time": 1632772570.2914326
+            },
+            {
+                "steps": 1999826,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-1999826.nn",
+                "reward": null,
+                "creation_time": 1632776233.8339455
+            },
+            {
+                "steps": 2499826,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-2499826.nn",
+                "reward": null,
+                "creation_time": 1632779698.9310017
+            },
+            {
+                "steps": 2999976,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-2999976.nn",
+                "reward": null,
+                "creation_time": 1632783534.4746234
+            },
+            {
+                "steps": 3499976,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-3499976.nn",
+                "reward": null,
+                "creation_time": 1632787340.0475092
+            },
+            {
+                "steps": 3878976,
+                "file_path": "results\\simple2\\TestBehavior3\\TestBehavior3-3878976.nn",
+                "reward": null,
+                "creation_time": 1632790317.810908
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3878976,
+            "file_path": "results\\simple2\\TestBehavior3.nn",
+            "reward": null,
+            "creation_time": 1632790317.810908
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}

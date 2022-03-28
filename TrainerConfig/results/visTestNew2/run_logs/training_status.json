@@ -1,0 +1,23 @@
+{
+    "TestBehavior3": {
+        "checkpoints": [
+            {
+                "steps": 407,
+                "file_path": "results\\visTestNew2\\TestBehavior3\\TestBehavior3-407.nn",
+                "reward": 84.98013196720018,
+                "creation_time": 1637554921.7840786
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 407,
+            "file_path": "results\\visTestNew2\\TestBehavior3.nn",
+            "reward": 84.98013196720018,
+            "creation_time": 1637554921.7840786
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.1",
+        "tensorflow_version": "2.3.1"
+    }
+}
